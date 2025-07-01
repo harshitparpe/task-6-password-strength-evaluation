@@ -1,10 +1,10 @@
 # Password Strength Evaluation Report
 
-## 🔍 Objective
+## Objective
 
 To analyze the strength of different passwords using online tools and understand how various components contribute to password security.
 
-## 🧪 Password Testing Summary
+## Password Testing Summary
 
 | Password           | Score | Complexity  | Notes                                                 |
 | ------------------ | ----- | ----------- | ----------------------------------------------------- |
@@ -14,13 +14,13 @@ To analyze the strength of different passwords using online tools and understand
 | mY_L1ttl3#S3cr3t!  | 100%  | Very Strong | Good length and creative leetspeak                    |
 | Z#9!dQ\*7^bRp@2$Lw | 100%  | Very Strong | Randomized, long, highly secure                       |
 
-## 🧠 Key Observations
+## Key Observations
 
 - Passwords with mixed character types score higher.
 - Leetspeak (e.g. using `3` instead of `e`) increases complexity.
 - Random symbols and increased length significantly enhance strength.
 
-## 📌 Screenshots
+## Screenshots
 
 Screenshots of each password test are attached in the submission:
 
@@ -30,7 +30,7 @@ Screenshots of each password test are attached in the submission:
 - `Screenshot 2025-07-01 140420.png`
 - `Screenshot 2025-07-01 140436.png`
 
-## 📚 Learnings
+## Learnings
 
 - **Longer passwords** are harder to crack via brute-force.
 - Use at least one **uppercase**, **lowercase**, **number**, and **symbol**.
